@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ASUp/SB1XYcyNG38ShFzZcuLSgstzMY+zXieeVmqR+Sb1QD0JcDogkPVwJGvWYv3FPcJiKMioZo0DUeyBatAuQ==",
+  "dgSpecHash": "2OsSx12MWGHHKTFSr/8LF+cWX8Nc7BfbZFwphYF45yCROzR5A2czv3hwGveQiYFzVbYBIjrxMY61TQHzpmSeMA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Dragos\\source\\repos\\prime-number-generation\\PrimeNumbersGenerator\\PrimeNumbersGeneratorTest\\PrimeNumbersGeneratorTest.csproj",
   "expectedPackageFiles": [

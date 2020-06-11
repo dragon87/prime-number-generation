@@ -1225,6 +1225,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
+      },
+      "PrimeNumbersGenerator/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/PrimeNumbersGenerator.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PrimeNumbersGenerator.dll": {}
+        }
       }
     }
   },
@@ -4568,12 +4578,18 @@
         "system.xml.xpath.xmldocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xmldocument.nuspec"
       ]
+    },
+    "PrimeNumbersGenerator/1.0.0": {
+      "type": "project",
+      "path": "../PrimeNumbersGenerator/PrimeNumbersGenerator.csproj",
+      "msbuildProject": "../PrimeNumbersGenerator/PrimeNumbersGenerator.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "Microsoft.NET.Test.Sdk >= 16.4.0",
       "NUnit3TestAdapter >= 3.15.1",
+      "PrimeNumbersGenerator >= 1.0.0",
       "nunit >= 3.12.0"
     ]
   },
@@ -4606,7 +4622,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Dragos\\source\\repos\\prime-number-generation\\PrimeNumbersGenerator\\PrimeNumbersGenerator\\PrimeNumbersGenerator.csproj": {
+              "projectPath": "C:\\Users\\Dragos\\source\\repos\\prime-number-generation\\PrimeNumbersGenerator\\PrimeNumbersGenerator\\PrimeNumbersGenerator.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

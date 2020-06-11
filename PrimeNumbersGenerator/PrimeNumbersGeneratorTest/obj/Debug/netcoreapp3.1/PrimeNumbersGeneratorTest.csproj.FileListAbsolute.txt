@@ -94,3 +94,5 @@ C:\Users\Dragos\source\repos\prime-number-generation\PrimeNumbersGenerator\Prime
 C:\Users\Dragos\source\repos\prime-number-generation\PrimeNumbersGenerator\PrimeNumbersGeneratorTest\obj\Debug\netcoreapp3.1\PrimeNumbersGeneratorTest.dll
 C:\Users\Dragos\source\repos\prime-number-generation\PrimeNumbersGenerator\PrimeNumbersGeneratorTest\obj\Debug\netcoreapp3.1\PrimeNumbersGeneratorTest.pdb
 C:\Users\Dragos\source\repos\prime-number-generation\PrimeNumbersGenerator\PrimeNumbersGeneratorTest\obj\Debug\netcoreapp3.1\PrimeNumbersGeneratorTest.genruntimeconfig.cache
+C:\Users\Dragos\source\repos\prime-number-generation\PrimeNumbersGenerator\PrimeNumbersGeneratorTest\bin\Debug\netcoreapp3.1\PrimeNumbersGenerator.dll
+C:\Users\Dragos\source\repos\prime-number-generation\PrimeNumbersGenerator\PrimeNumbersGeneratorTest\bin\Debug\netcoreapp3.1\PrimeNumbersGenerator.pdb
