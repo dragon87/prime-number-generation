@@ -6,4 +6,3 @@ C:\Users\Dragos\source\repos\prime-number-generation\PrimeNumbersGenerator\Prime
 C:\Users\Dragos\source\repos\prime-number-generation\PrimeNumbersGenerator\PrimeNumbersGenerator\obj\Debug\netstandard2.0\PrimeNumbersGenerator.csproj.CoreCompileInputs.cache
 C:\Users\Dragos\source\repos\prime-number-generation\PrimeNumbersGenerator\PrimeNumbersGenerator\obj\Debug\netstandard2.0\PrimeNumbersGenerator.dll
 C:\Users\Dragos\source\repos\prime-number-generation\PrimeNumbersGenerator\PrimeNumbersGenerator\obj\Debug\netstandard2.0\PrimeNumbersGenerator.pdb
-C:\Users\Dragos\source\repos\prime-number-generation\PrimeNumbersGenerator\PrimeNumbersGenerator\obj\Debug\netstandard2.0\PrimeNumbersGenerator.csprojAssemblyReference.cache
