@@ -7,7 +7,7 @@ using System.Linq;
 namespace PrimeNumbersGeneratorTest
 {
     [TestFixture]
-    public class PrimeServiceTests
+    public class PrimeServiceTest
     {
         private PrimeService _primeService;
 
